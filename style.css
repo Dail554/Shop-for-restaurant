@@ -1,0 +1,22 @@
+li{
+    border-radius: 90%;
+}
+
+body {
+    background-image: url('images\\image1.jpg');
+    background-position: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: rgb(71, 71, 71);
+}
+
+.main-header{
+    display: flex;
+    flex-direction: row;
+    font-size: 36px;
+    font-family: "Candal", sans-serif;
+    color: #FFFFFF;
+    font-weight: 1000;
+}
+
+
